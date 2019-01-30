@@ -44,7 +44,7 @@ Description
 -----------
 This gem includes a Rails Engine and generators for writing Rails applications using the Shopify API. The Engine provides a SessionsController and all the required code for authenticating with a shop via Oauth (other authentication methods are not supported).
 
-The [example](https://github.com/Shopify/shopify_app/tree/master/example) directory contains an app that was generated with this gem. It also contains sample code demonstrating the usage of the embedded app sdk.
+The [example](https://github.com/oleksandrbyk/olek-shopify/tree/master/example) directory contains an app that was generated with this gem. It also contains sample code demonstrating the usage of the embedded app sdk.
 
 *Note: It's recommended to use this on a new Rails project, so that the generator won't overwrite/delete some of your files.*
 
@@ -56,7 +56,7 @@ Check out this screencast on how to create and deploy a new Shopify App to Herok
 
 [https://www.youtube.com/watch?v=yGxeoAHlQOg](https://www.youtube.com/watch?v=yGxeoAHlQOg)
 
-Or if you prefer text instructions the steps in the video are written out [here](https://github.com/Shopify/shopify_app/blob/master/docs/Quickstart.md)
+Or if you prefer text instructions the steps in the video are written out [here](https://github.com/oleksandrbyk/olek-shopify/blob/master/docs/Quickstart.md)
 
 App Tunneling
 -------------
@@ -400,7 +400,7 @@ Create your app proxy url in the [Shopify Partners' Dashboard](https://app.shopi
 Troubleshooting
 ---------------
 
-see [TROUBLESHOOTING.md](https://github.com/Shopify/shopify_app/blob/master/docs/Troubleshooting.md)
+see [TROUBLESHOOTING.md](https://github.com/oleksandrbyk/olek-shopify/blob/master/docs/Troubleshooting.md)
 
 Testing an embedded app outside the Shopify admin
 -------------------------------------------------
